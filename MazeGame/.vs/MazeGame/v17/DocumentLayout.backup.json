@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|c:\\users\\fatma\\desktop\\c#\\projects\\maze game\\mazegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|c:\\users\\fatma\\desktop\\c#\\projects\\maze game\\mazegame\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|solutionrelative:maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|c:\\users\\fatma\\desktop\\c#\\projects\\maze game\\mazegame\\imazeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|solutionrelative:imazeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|c:\\users\\fatma\\desktop\\c#\\projects\\maze game\\mazegame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|c:\\users\\fatma\\desktop\\c#\\projects\\maze game\\mazegame\\emptyspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|solutionrelative:emptyspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|c:\\users\\fatma\\desktop\\c#\\projects\\maze game\\mazegame\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55B0E08-8B7F-4296-A2CB-66B3BCD2070E}|MazeGame.csproj|solutionrelative:wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:06:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmptySpace.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\EmptySpace.cs",
+              "RelativeDocumentMoniker": "EmptySpace.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\EmptySpace.cs",
+              "RelativeToolTip": "EmptySpace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:06:38.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\Wall.cs",
+              "RelativeDocumentMoniker": "Wall.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\Wall.cs",
+              "RelativeToolTip": "Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:06:24.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMazeObject.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\IMazeObject.cs",
+              "RelativeDocumentMoniker": "IMazeObject.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\IMazeObject.cs",
+              "RelativeToolTip": "IMazeObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:06:10.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\Maze.cs",
+              "RelativeDocumentMoniker": "Maze.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\Maze.cs",
+              "RelativeToolTip": "Maze.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:05:48.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fatma\\Desktop\\C#\\Projects\\Maze Game\\MazeGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:26:08.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
